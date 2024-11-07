@@ -1,0 +1,13 @@
+{
+  "name": "com.weackss.scenario.systems.tutorial",
+  "displayName": "Scenario.Systems.Tutorial",
+  "version": "1.1.0",
+  "description": "",
+  "license": "Dolbaeb Intenational",
+  "category": "System",
+  "author": {
+    "name": "Weackss",
+    "email": "ubta.etc@gmail.com"
+  },
+  "dependencies": {}
+}
